@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=Mohamed%20Bouchekouf&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 
-
-
 </div>
 
 ---
@@ -135,6 +133,10 @@ Future ─── Quantum Machine Learning Research
 # 📈 GitHub Analytics
 
 
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=medbouchekouf&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=medbouchekouf&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -146,6 +148,7 @@ Future ─── Quantum Machine Learning Research
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medbouchekouf&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 ---
 
 
