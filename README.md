@@ -51,7 +51,7 @@ class MohamedBouchekouf:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,vscode,docker,linux,mysql,qiskit,pennylane"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,vscode,docker,linux,mysql,flutter,figma"/>
 
 </div>
 
