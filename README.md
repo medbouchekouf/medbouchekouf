@@ -147,7 +147,7 @@ Future ─── Quantum Machine Learning Research
 
 </div>
 
-<br>
+
 
 ---
 
