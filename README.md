@@ -138,17 +138,6 @@ Future ─── Quantum Machine Learning Research
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=medbouchekouf&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=medbouchekouf&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medbouchekouf&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 ---
 
 
@@ -166,7 +155,7 @@ Future ─── Quantum Machine Learning Research
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=medbouchekouf&theme=tokyonight"/>
 
 </div>
 
@@ -174,9 +163,9 @@ Future ─── Quantum Machine Learning Research
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=medbouchekouf&theme=tokyonight"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medbouchekouf&theme=tokyonight"/>
 
 </div>
 
