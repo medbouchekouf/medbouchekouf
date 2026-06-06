@@ -155,7 +155,6 @@ Future ─── Quantum Machine Learning Research
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=medbouchekouf&theme=tokyo-night"/>
 
-</div>
 
 ---
 
