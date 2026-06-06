@@ -230,12 +230,11 @@ Open Source            ████░░░░░░░░░░░░░ 10%
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-bouchekouf/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Bouchekouf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
 
 <a href="mailto:Mohamed.bouchekouf@univ-constantine2.dz">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 
 </div>
 
