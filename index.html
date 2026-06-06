@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Single Quantum Particle</title>
+<style>
+  body {
+    margin: 0;
+    overflow: hidden;
+    background: radial-gradient(circle at center, #050510, #000);
+  }
+  canvas {
+    display: block;
+  }
+</style>
+</head>
+<body>
+
+<canvas id="canvas"></canvas>
+
+<script>
+const canvas = document.getElementById("canvas");
+const ctx = canvas.getContext("2d");
+
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+
+/* -----------------------------
+   SINGLE QUANTUM PARTICLE STATE
+------------------------------*/
+let particle = {
+  x: canvas.width / 2,
+  y: canvas.height / 2,
+  vx: 0,
+  vy: 0,
+  phase: 0
+};
+
+const center = {
+  x: canvas.width / 2,
+  y: canvas.height / 2
+};
+
+/* -----------------------------
+   UPDATE LOOP
+------------------------------*/
+function animate() {
+  ctx.fillStyle = "rgba(0,0,0,0.12)";
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  particle.phase += 0.03;
+
+  // 🌊 wavefunction-like motion (smooth oscillation field)
+  const wx = Math.sin(particle.phase * 1.2);
+  const wy = Math.cos(particle.phase * 0.9);
+
+  // 🧲 weak restoring force (like potential well)
+  const ax = (center.x - particle.x) * 0.002;
+  const ay = (center.y - particle.y) * 0.002;
+
+  // update velocity
+  particle.vx += ax + wx * 0.3;
+  particle.vy += ay + wy * 0.3;
+
+  // damping (quantum decoherence feel)
+  particle.vx *= 0.97;
+  particle.vy *= 0.97;
+
+  particle.x += particle.vx;
+  particle.y += particle.vy;
+
+  // 🌌 probability cloud (faint trail = superposition visualization)
+  drawCloud(particle.x, particle.y);
+
+  // ⚛️ particle core
+  drawParticle(particle.x, particle.y);
+
+  requestAnimationFrame(animate);
+}
+
+/* -----------------------------
+   PARTICLE CORE
+------------------------------*/
+function drawParticle(x, y) {
+  ctx.beginPath();
+  ctx.fillStyle = "#00f0ff";
+  ctx.shadowBlur = 25;
+  ctx.shadowColor = "#00f0ff";
+  ctx.arc(x, y, 4, 0, Math.PI * 2);
+  ctx.fill();
+}
+
+/* -----------------------------
+   PROBABILITY CLOUD (SUPERPOSITION)
+------------------------------*/
+function drawCloud(x, y) {
+  for (let i = 0; i < 3; i++) {
+    const offsetX = (Math.random() - 0.5) * 10;
+    const offsetY = (Math.random() - 0.5) * 10;
+
+    ctx.beginPath();
+    ctx.fillStyle = "rgba(0, 255, 255, 0.05)";
+    ctx.arc(x + offsetX, y + offsetY, 8, 0, Math.PI * 2);
+    ctx.fill();
+  }
+}
+
+/* -----------------------------
+   MEASUREMENT EVENT (COLLAPSE)
+   click = quantum observation
+------------------------------*/
+window.addEventListener("click", (e) => {
+  particle.x = e.clientX;
+  particle.y = e.clientY;
+
+  particle.vx = 0;
+  particle.vy = 0;
+  particle.phase += 1.5; // phase jump = collapse disturbance
+});
+
+animate();
+
+/* -----------------------------
+   RESIZE
+------------------------------*/
+window.addEventListener("resize", () => {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+  center.x = canvas.width / 2;
+  center.y = canvas.height / 2;
+});
+</script>
+
+</body>
+</html>
