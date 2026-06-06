@@ -227,15 +227,14 @@ Open Source            ████░░░░░░░░░░░░░ 10%
 ---
 
 # 🌍 Connect With Me
-
 <div align="center">
 
-<a href="mailto:Mohamed.bouchekouf@univ-constantine2.dz">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Bouchekouf-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/mohamed-bouchekouf/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Bouchekouf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mohamed-bouchekouf/">
-    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="mailto:Mohamed.bouchekouf@univ-constantine2.dz">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
