@@ -134,11 +134,7 @@ Future ─── Quantum Machine Learning Research
 
 # 📈 GitHub Analytics
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=medbouchekouf&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=medbouchekouf&show_icons=true&theme=tokyonight&hide_border=true"/>
 
@@ -160,7 +156,7 @@ Future ─── Quantum Machine Learning Research
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=medbouchekouf&theme=tokyo-night"/>
 
 </div>
 
