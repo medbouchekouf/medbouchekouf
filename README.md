@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F2027,50:203A43,100:2C5364&text=Mohamed%20Bouchekouf&fontSize=60&fontColor=ffffff&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=⚛️+Quantum+Computing+Researcher;🤖+Artificial+Intelligence+Engineer;📊+Data+Scientist;🧬+Computational+Biology+Researcher;🚀+Building+The+Future+With+Bits+and+Qubits"/>
+
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
 
