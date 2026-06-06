@@ -128,18 +128,6 @@ Future ─── Quantum Machine Learning Research
 
 ---
 
-# 📈 GitHub Analytics
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=medbouchekouf&show_icons=true&theme=tokyonight&hide_border=true" />
-
-
-</div>
-
-
-
----
-
 
 # 📊 Contribution Graph
 
