@@ -210,19 +210,20 @@ Open Source            ████░░░░░░░░░░░░░ 10%
 ```
 
 ---
-
 # 🌍 Connect With Me
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-bouchekouf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
 </a>
 
 <a href="mailto:Mohamed.bouchekouf@univ-constantine2.dz">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
 
-<a href="https://www.youtube.com/@MohamedBOUCHEKOUF" target="_blank">📺 My YouTube Channel</a>
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+<a href="https://www.youtube.com/@MohamedBOUCHEKOUF" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+</a>
 
 </div>
 
