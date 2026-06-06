@@ -69,7 +69,7 @@ class MohamedBouchekouf:
 | Development | Git, GitHub, VS Code |
 | Platforms | Linux, Docker |
 | Cloud | Azure |
-| Quantum | Qiskit |Paktron|Pennylane|
+| Quantum | Qiskit, Paktron, Pennylane|
 
 ---
 
