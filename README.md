@@ -13,8 +13,6 @@
 ```python
 class MohamedBouchekouf:
 
-    location = "Algeria 🇩🇿"
-
     degree = "Bachelor of Computer Science"
 
     current_roles = [
@@ -233,11 +231,11 @@ Open Source            ████░░░░░░░░░░░░░ 10%
 <div align="center">
 
 <a href="mailto:Mohamed.bouchekouf@univ-constantine2.dz">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Bouchekouf-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohamed-bouchekouf/">
-<img src="https://img.shields.io/badge/LinkedIn-Mohamed_Bouchekouf-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
