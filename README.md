@@ -173,9 +173,6 @@ Future ─── Quantum Machine Learning Research
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=medbouchekouf&theme=tokyonight"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medbouchekouf&theme=tokyonight"/>
-
-</div>
 
 ---
 
