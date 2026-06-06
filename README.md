@@ -133,9 +133,11 @@ Future ─── Quantum Machine Learning Research
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=medbouchekouf&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=medbouchekouf&theme=tokyonight&hide_border=true" />
 
 </div>
+
+
+
 ---
 
 
