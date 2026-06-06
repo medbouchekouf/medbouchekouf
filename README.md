@@ -138,6 +138,21 @@ Future ─── Quantum Machine Learning Research
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=medbouchekouf&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=medbouchekouf&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=medbouchekouf&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medbouchekouf&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 ---
 
 
