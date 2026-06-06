@@ -221,6 +221,9 @@ Open Source            ████░░░░░░░░░░░░░ 10%
 <a href="mailto:Mohamed.bouchekouf@univ-constantine2.dz">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 
+<a href="https://www.youtube.com/@MohamedBOUCHEKOUF" target="_blank">📺 My YouTube Channel</a>
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" />
+
 </div>
 
 ---
